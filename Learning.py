@@ -15,3 +15,14 @@ message_02 = message + str(x) + message_01
 print(x+Y)
 
 print(message_02)
+
+#   这是第二堂课，学习了
+
+bella = ['Cindy','Amanda','James']
+print(bella)
+print(bella[1])
+print(bella[-3])
+# print(bella[-4])
+
+bella.append('bella')
+print(bella[3].title())
