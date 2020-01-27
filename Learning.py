@@ -26,3 +26,21 @@ print(bella[-3])
 
 bella.append('bella')
 print(bella[3].title())
+
+james = 'amanda'
+print(james)
+
+print(bella[-1])
+
+message_03 = "I am  " + bella[-1].title() + "."
+print(message_03)
+
+bella[2]='Bella'
+print(bella)
+
+bella.insert(0,"james")
+print(bella)
+
+del bella[-1]
+bella.remove('Amanda')
+print(bella)
